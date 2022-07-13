@@ -182,7 +182,7 @@
     "minimatch": "3.0.4",
     "minimist": "^1.2.0",
     "ng-packagr": "~12.0.0-next.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^3.2.8",
     "npm-registry-client": "8.6.0",
     "open": "8.0.8",
     "ora": "5.4.0",
